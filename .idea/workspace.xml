@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="525f9c17-5559-4ab1-b4c3-847f6238bb9b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DML_Parser_fileParsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/DML_Parser_fileParsing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DML_Parser_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/DML_Parser_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DML_Parser_query_sep.py" beforeDir="false" afterPath="$PROJECT_DIR$/DML_Parser_query_sep.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DML_Validator_ddl_validate.py" beforeDir="false" afterPath="$PROJECT_DIR$/DML_Validator_ddl_validate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ErrorFile.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XlsFiles/ErrorFile.docx" beforeDir="false" afterPath="$PROJECT_DIR$/XlsFiles/ErrorFile.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XlsFiles/MYSQL_out.xls" beforeDir="false" afterPath="$PROJECT_DIR$/XlsFiles/MYSQL_out.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/q_uploads/dml_q_file.sql" beforeDir="false" afterPath="$PROJECT_DIR$/q_uploads/dml_q_file.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/q_uploads/q_file.sql" beforeDir="false" afterPath="$PROJECT_DIR$/q_uploads/q_file.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tester.rtf" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="382712430">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.53" value="1" />
+          <entry key="project.open.time.58" value="1" />
+          <entry key="project.opened" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="db" value="1" />
+          <entry key="html" value="22" />
+          <entry key="py" value="125" />
+          <entry key="rtf" value="2" />
+          <entry key="sql" value="11" />
+          <entry key="teraData_queryFile" value="2" />
+          <entry key="test_TD" value="1" />
+          <entry key="txt" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="DBN-SQL" value="11" />
+          <entry key="HTML" value="22" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="Python" value="125" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="78" />
+          <entry key="html" value="280" />
+          <entry key="py" value="9960" />
+          <entry key="sql" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="DBN-SQL" value="6" />
+          <entry key="HTML" value="280" />
+          <entry key="PLAIN_TEXT" value="78" />
+          <entry key="Python" value="9960" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DDL_Parser_mySQL_parse.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="601">
+              <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DML_Parser_query_sep.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="439">
+              <caret line="236" column="51" lean-forward="true" selection-start-line="236" selection-start-column="51" selection-end-line="236" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="32" column="91" selection-start-line="32" selection-start-column="91" selection-end-line="32" selection-end-column="91" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DML_Parser_fileParsing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="42" column="64" selection-start-line="42" selection-start-column="64" selection-end-line="42" selection-end-column="64" />
+              <folding>
+                <element signature="e#25#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DML_Parser_main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-29">
+              <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+                <marker date="1558348652528" expanded="true" signature="1765:2104" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DML_Parser_lineage_builder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-133">
+              <caret line="236" column="31" lean-forward="true" selection-start-line="236" selection-start-column="31" selection-end-line="236" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DML_Validator_q_fileUpload.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="28" column="67" lean-forward="true" selection-start-line="28" selection-start-column="67" selection-end-line="28" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DML_Validator_ddl_validate.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="385">
+              <caret line="162" column="55" selection-start-line="162" selection-start-column="47" selection-end-line="162" selection-end-column="55" />
+              <folding>
+                <element signature="e#25#39#0" expanded="true" />
+                <marker date="1558348412770" expanded="true" signature="583:584" ph="..." />
+                <marker date="1558348412770" expanded="true" signature="824:1270" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DDL_Parser_ddl_main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ValidateForm()</find>
+      <find>option</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test_TD" />
+        <option value="$PROJECT_DIR$/teraData_parse.py" />
+        <option value="$PROJECT_DIR$/ind.html.py" />
+        <option value="$PROJECT_DIR$/sqLite_parse.py" />
+        <option value="$PROJECT_DIR$/ddl_main.py" />
+        <option value="$PROJECT_DIR$/testHTML.html" />
+        <option value="$PROJECT_DIR$/ddl_dict.html" />
+        <option value="$PROJECT_DIR$/in.py" />
+        <option value="$PROJECT_DIR$/ddl_validator.py" />
+        <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/DDL_validator/__init__.py" />
+        <option value="$PROJECT_DIR$/DML_parser/Trash/temp1.py" />
+        <option value="$PROJECT_DIR$/DDL_validator/d_validate.py" />
+        <option value="$PROJECT_DIR$/DDL_parser/XlsFiles/__init__.py" />
+        <option value="$PROJECT_DIR$/DDL_validator/validate.html" />
+        <option value="$PROJECT_DIR$/DML_parser/Query_Files/Raw_Data.sql" />
+        <option value="$PROJECT_DIR$/DDL_parser/ddl_validator.py" />
+        <option value="$PROJECT_DIR$/DDL_parser/in.py" />
+        <option value="$PROJECT_DIR$/DDL_parser/mySQL_parse.py" />
+        <option value="$PROJECT_DIR$/DDL_parser/test.py" />
+        <option value="$PROJECT_DIR$/DML_parser/Scripts/Query_Separator.py" />
+        <option value="$PROJECT_DIR$/DML_parser/Scripts/DML_Parser_main.py" />
+        <option value="$PROJECT_DIR$/DDL_validator/temp'.py" />
+        <option value="$PROJECT_DIR$/DDL_parser/ddl_main.py" />
+        <option value="$PROJECT_DIR$/DDL_validator/ddl_validate.py" />
+        <option value="$PROJECT_DIR$/DDL_parser/testHTML.html" />
+        <option value="$PROJECT_DIR$/DML_parser/Scripts/__init__.py" />
+        <option value="$PROJECT_DIR$/DDL_parser/__init__.py" />
+        <option value="$PROJECT_DIR$/DML_parser/__init__.py" />
+        <option value="$PROJECT_DIR$/DDL_validator/q_fileUpload.py" />
+        <option value="$PROJECT_DIR$/DML_Validator_validate.html" />
+        <option value="$PROJECT_DIR$/XlsFiles/__init__.py" />
+        <option value="$PROJECT_DIR$/q_uploads/one.txt" />
+        <option value="$PROJECT_DIR$/q_uploads/q_file.sql" />
+        <option value="$PROJECT_DIR$/o.html" />
+        <option value="$PROJECT_DIR$/tester.rtf" />
+        <option value="$PROJECT_DIR$/test2.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/test3.py" />
+        <option value="$PROJECT_DIR$/DML_Validator_q_fileUpload.py" />
+        <option value="$PROJECT_DIR$/DDL_Parser_in.py" />
+        <option value="$PROJECT_DIR$/DDL_Parser_ddl_main.py" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/DML_Parser_parse.html" />
+        <option value="$PROJECT_DIR$/DML_Validator_ddl_validate.py" />
+        <option value="$PROJECT_DIR$/DML_Parser_main.py" />
+        <option value="$PROJECT_DIR$/DML_Parser_query_sep.py" />
+        <option value="$PROJECT_DIR$/DML_Parser_lineage_builder.py" />
+        <option value="$PROJECT_DIR$/DML_Parser_fileParsing.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="700" />
+    <option name="y" value="186" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>RegExp</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SQL_parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SQL_parser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SQL_parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SQL_parser" type="462c0819:PsiDirectoryNode" />
+              <item name="q_uploads" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SQL_parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SQL_parser" type="462c0819:PsiDirectoryNode" />
+              <item name="XlsFiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/DML_Parser2" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\SQL_parser" />
+      <recent name="C:\xampp\htdocs\SQL_parser\DDL_validator" />
+      <recent name="C:\xampp\htdocs\SQL_parser\DDL_validator\q_uploads" />
+      <recent name="C:\xampp\htdocs\SQL_parser\DML_parser\Query_Files" />
+      <recent name="C:\xampp\htdocs\SQL_parser\DML_parser\Scripts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.DML_Parser_main">
+    <configuration name="DDL_Parser_ddl_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SQL_parser" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DDL_Parser_ddl_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DDL_Parser_mySQL_parse" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SQL_parser" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DDL_Parser_mySQL_parse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DML_Parser_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SQL_parser" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DML_Parser_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SQL_parser" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SQL_parser" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test (1)" />
+      <item itemvalue="Python.test3" />
+      <item itemvalue="Python.DDL_Parser_mySQL_parse" />
+      <item itemvalue="Python.DDL_Parser_ddl_main" />
+      <item itemvalue="Python.DML_Parser_main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.DML_Parser_main" />
+        <item itemvalue="Python.DDL_Parser_ddl_main" />
+        <item itemvalue="Python.DDL_Parser_mySQL_parse" />
+        <item itemvalue="Python.test3" />
+        <item itemvalue="Python.test (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="525f9c17-5559-4ab1-b4c3-847f6238bb9b" name="Default Changelist" comment="" />
+      <created>1556793338441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556793338441</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1830161" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Project Explorer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="DB Browser" order="4" />
+      <window_info id="Job Explorer" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3263158" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38947368" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Console" order="7" />
+      <window_info anchor="bottom" id="DB Execution Console" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32970452" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32900432" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DML_parser/Trash/temp.py" />
+    <entry file="file://$PROJECT_DIR$/DDL_parser/XlsFiles/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/DML_parser/Query_Files/Raw_Data.sql" />
+    <entry file="file://$PROJECT_DIR$/DDL_parser/DDL_Parser_sqLite_config.py" />
+    <entry file="file://$PROJECT_DIR$/DDL_parser/ddl_validator.py" />
+    <entry file="file://$PROJECT_DIR$/DDL_parser/DDL_Parser_teraData_parse.py" />
+    <entry file="file://$PROJECT_DIR$/DDL_parser/DDL_Parser_hive_parse.py" />
+    <entry file="file://$PROJECT_DIR$/DDL_parser/DDL_Parser_sqLite_parse.py" />
+    <entry file="file://$PROJECT_DIR$/DDL_parser/DDL_Parser_in.py" />
+    <entry file="file://$PROJECT_DIR$/DDL_validator/DML_Validate_validate.html" />
+    <entry file="file://$PROJECT_DIR$/DDL_parser/DDL_Parser_mySQL_parse.py" />
+    <entry file="file://$PROJECT_DIR$/DDL_validator/temp" />
+    <entry file="file://$PROJECT_DIR$/DML_parser/Trash/temp1.py" />
+    <entry file="file://$PROJECT_DIR$/DDL_parser/testHTML.html" />
+    <entry file="file://$PROJECT_DIR$/DDL_parser/DDL_Parser_ddl_dict.html" />
+    <entry file="file://$PROJECT_DIR$/DML_parser/Scripts/DML_Parser_query_sep.py" />
+    <entry file="file://$PROJECT_DIR$/DML_parser/Scripts/DML_Parser_main.py" />
+    <entry file="file://$PROJECT_DIR$/DDL_parser/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/DML_parser/Scripts/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/DDL_parser/DDL_Parser_ddl_main.py" />
+    <entry file="file://$PROJECT_DIR$/DDL_validator/DML_Validate_ddl_validate.py" />
+    <entry file="file://$PROJECT_DIR$/DML_parser/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/DDL_validator/DML_Validate_q_fileUpload.py" />
+    <entry file="file://$PROJECT_DIR$/DDL_parser/test.py" />
+    <entry file="file://$PROJECT_DIR$/employeedb.db">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DDL_Parser_ddl_dict.html" />
+    <entry file="file://$PROJECT_DIR$/XlsFiles/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q_uploads/q_file.py" />
+    <entry file="file://C:/Python27/Lib/site-packages/docx/text/paragraph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1840">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/docx/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/docx/table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/docx/document.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2336">
+          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tester.rtf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/o.html" />
+    <entry file="file://$PROJECT_DIR$/q_uploads/one.txt" />
+    <entry file="file://$PROJECT_DIR$/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="37" column="26" lean-forward="true" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q_uploads/q_file.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-972">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DDL_Parser_in.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="137" column="61" selection-start-line="137" selection-start-column="61" selection-end-line="137" selection-end-column="61" />
+          <folding>
+            <element signature="e#26#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DDL_Parser_ddl_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DDL_Parser_mySQL_parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DML_Validator_validate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="69" lean-forward="true" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DML_Parser_parse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="71" lean-forward="true" selection-start-line="11" selection-start-column="71" selection-end-line="11" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="32" column="91" selection-start-line="32" selection-start-column="91" selection-end-line="32" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DML_Parser_query_sep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="236" column="51" lean-forward="true" selection-start-line="236" selection-start-column="51" selection-end-line="236" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DML_Validator_q_fileUpload.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="28" column="67" lean-forward="true" selection-start-line="28" selection-start-column="67" selection-end-line="28" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="40" column="32" lean-forward="true" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DML_Validator_ddl_validate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="162" column="55" selection-start-line="162" selection-start-column="47" selection-end-line="162" selection-end-column="55" />
+          <folding>
+            <element signature="e#25#39#0" expanded="true" />
+            <marker date="1558348412770" expanded="true" signature="583:584" ph="..." />
+            <marker date="1558348412770" expanded="true" signature="824:1270" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DML_Parser_lineage_builder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-133">
+          <caret line="236" column="31" lean-forward="true" selection-start-line="236" selection-start-column="31" selection-end-line="236" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DML_Parser_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29">
+          <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1558348652528" expanded="true" signature="1765:2104" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DML_Parser_fileParsing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="42" column="64" selection-start-line="42" selection-start-column="64" selection-end-line="42" selection-end-column="64" />
+          <folding>
+            <element signature="e#25#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

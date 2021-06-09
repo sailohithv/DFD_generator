@@ -1,0 +1,23 @@
+CREATE TABLE employee ( eid int, name String, salary String, destination String)
+COMMENT ‘Employee details’
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY ‘\t’
+LINES TERMINATED BY ‘\n’
+STORED AS TEXTFILE;
+CREATE TABLE weather ( wban INT, date STRING, precip INT)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY ‘,’
+LOCATION ‘ /hive/data/weather’;
+CREATE EXTERNAL TABLE weatherext ( wban INT, date STRING)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY ‘,’
+LOCATION ‘ /hive/data/weatherext’ ;
+CREATE TABLE stud_details (id INT,Name STRING)
+Row format delimited
+Fields terminated by '\t';
+CREATE EXTERNAL TABLE guruhive_external(id INT,Name STRING)
+Row format delimited
+Fields terminated by '\t'
+LOCATION '/user/guru99hive/guruhive_external';
+CREATE TABLE Persons ( ID INT NOT NULL, Name STRING NOT NULL, Age INT, Creator STRING DEFAULT CURRENT_USER(), CreateDate DATE DEFAULT CURRENT_DATE(), PRIMARY KEY (ID) DISABLE NOVALIDATE);
+CREATE TABLE BusinessUnit ( ID INT NOT NULL, Head INT NOT NULL, Creator STRING DEFAULT CURRENT_USER(), CreateDate DATE DEFAULT CURRENT_DATE(), PRIMARY KEY (ID) DISABLE NOVALIDATE, CONSTRAINT fk FOREIGN KEY (Head) REFERENCES Persons(ID) DISABLE NOVALIDATE);

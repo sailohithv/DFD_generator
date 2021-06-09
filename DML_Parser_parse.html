@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DML Parser</title>
+</head>
+<body>
+   <form  align="center" enctype = "multipart/form-data" action = "DML_Parser_fileParsing.py" method = "post">
+      <input type = "radio" name = "db_type" value = "TERADATA" /> TERADATA
+      <input type = "radio" name = "db_type" value = "MYSQL" /> MYSQL
+      <input type = "radio" name = "db_type" value = "SQLITE" /> SQLITE
+      <input type = "radio" name = "db_type" value = "HADOOP" /> HADOOP
+   <br><br><br>
+      <b>Browse for query File: </B>
+   <br><br>
+   <input type = "file" name = "filename" />
+   <br><br>
+   <input type = "submit" value = "Upload" />
+   </form>
+</body>
+</html>

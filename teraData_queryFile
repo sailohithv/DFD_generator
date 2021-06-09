@@ -1,0 +1,18 @@
+CREATE SET TABLE Emp_Db.Employee, FALLBACK
+   (Associate_Id     INTEGER,
+    Associate_Name   CHAR(25),
+    Salary           INT(8),
+    DOB              DATE,
+    Job_Title        VARCHAR(25),
+    Dept_No          SMALLINT,
+    Marital_Status   CHAR,
+    No_Of_Dependents BYTEINT)
+ UNIQUE PRIMARY INDEX (Associate_Id);
+CREATE SET TABLE EMP_DB.EMPLOYER,FALLBACK (
+   EmployerNo INTEGER,
+   FirstName VARCHAR(30),
+   LastName VARCHAR(30),
+   DOB DATE FORMAT 'YYYY-MM-DD',
+   JoinedDate DATE FORMAT 'YYYY-MM-DD',
+   DepartmentNo BYTEINT)
+ UNIQUE PRIMARY INDEX (EmployerNo);
